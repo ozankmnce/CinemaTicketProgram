@@ -1,0 +1,11 @@
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\bin\Debug\SinemaBilet.exe.config
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\bin\Debug\SinemaBilet.exe
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\bin\Debug\SinemaBilet.pdb
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\obj\Debug\Arif.csprojResolveAssemblyReference.cache
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.Arif216cs.resources
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.Form1.resources
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.Properties.Resources.resources
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\obj\Debug\Arif.csproj.GenerateResource.Cache
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\obj\Debug\Arif.csproj.CoreCompileInputs.cache
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.exe
+C:\Users\Ozan\source\repos\SinemaBilet\SinemaBilet\obj\Debug\SinemaBilet.pdb
